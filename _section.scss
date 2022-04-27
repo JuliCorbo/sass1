@@ -1,0 +1,25 @@
+
+
+@import "variables";
+
+.section1{
+    
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-size: 400% 400%;
+    background: linear-gradient(45deg, orange, black);
+    color: $font-color;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+        h1{
+            text-decoration: $txt-decoration;
+            ul{
+                li{
+                    text-decoration: $txt-decoration;
+
+                }
+            }
+
+            }
+    }
